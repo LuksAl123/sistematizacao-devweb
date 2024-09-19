@@ -17,7 +17,9 @@ GitHub: Hospedagem do código fonte e documentação do projeto.
 Como Executar o Projeto
 
 Pré-requisitos
+
 Navegador web
+
 IDE 
 
 Instruções para Visualização Local

@@ -19,4 +19,4 @@ IDE
 Instruções para Visualização Local
 Clone o repositório para sua máquina local:
 
-git clone https://github.com/usuario/clinica-landing-page.git
+git clone https://github.com/LuksAl123/sistematizacao-devweb.git 
